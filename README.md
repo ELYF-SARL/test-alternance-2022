@@ -3,7 +3,7 @@
 Hi! We're glad you want to join ELYF! We've designed this test so that you can show us what you're capable of doing in a free environment. We'll discuss about it during our next meeting.
 
 ## Project
-A client wants to develop a new app for people to find information about their food. They already have the backend done by [Open Food Facts](https://world.openfoodfacts.org/), they have an API. They let you free to develop your own web design ideas. The most important for them is that the web page is clean and stylish, and looks modern and professional as much as possible.
+A client wants to develop a new app for people to find information about their food. They already have the backend done by [Open Food Facts](https://world.openfoodfacts.org/), they have an API. They let you free to develop your own web design ideas. The most important for them is that the web page is clean and stylish, and looks modern and professional as much as possible. They also want to be able to maintain it reliably, so using a web framework is recommended! ;) 
 
 ### Stage 1: REST API
 Go to [Open Food Facts API documentation](https://openfoodfacts.github.io/api-documentation/) and find endpoints and informations on how the API works, try it out, and if you have any question feel free to ask us.
